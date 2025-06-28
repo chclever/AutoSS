@@ -1,0 +1,16 @@
+{
+    "API": {
+        "api_id": 0,
+        "api_hash": "",
+        "phone": "+7",
+        "username": ""
+    },
+    "SenderSS": {
+        "key": "",
+        "theme": "dark",
+        "groupsID": [
+            ""
+        ],
+        "messagelink": ""
+    }
+}
